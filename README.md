@@ -106,7 +106,7 @@ Ejecutar el notebook `modeling-pipeline.ipynb` para:
 - Optimizar hiperparámetros
 - Guardar el mejor modelo en `models/`
 
-**Nota:** Este proceso puede tardar 30 minutos o más dependiendo del hardware, ya que incluye la exploración completa de modelos y optimización de hiperparámetros.
+**Nota:** Este proceso puede tardar 40 minutos o más dependiendo del hardware, ya que incluye la exploración completa de modelos y optimización de hiperparámetros.
 
 ### 4. Aplicación Web
 
